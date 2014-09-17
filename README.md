@@ -1,4 +1,4 @@
 HaxeCouch
 =========
 
-Couch SDK for haxe
+Couchbase SDK for haxe
